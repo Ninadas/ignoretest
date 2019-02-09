@@ -1,4 +1,5 @@
 log/*
 classpath
+lib/*
 project
 *.DLL
